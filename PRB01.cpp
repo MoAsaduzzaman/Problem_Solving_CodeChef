@@ -1,4 +1,4 @@
-//Problem name: PRB01 Primality Test
+//Problem name: PRB01 
 //https://www.codechef.com/problems/PRB01
 
 #include<bits/stdc++.h>
